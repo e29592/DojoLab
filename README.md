@@ -1,3 +1,5 @@
 # DojoLab
-This is for training
-I added a line here!
+This is for training<br>
+I added a line here!<br>
+I added line break!!<br>
+
